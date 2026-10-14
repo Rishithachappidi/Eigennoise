@@ -55,19 +55,6 @@ jupyter notebook Eigen_noise.ipynb
 
 Run notebook cells in order. The CIFAR-10 dataset may be downloaded automatically by TensorFlow Keras.
 
-## Repository structure
-
-```text
-Eigennoise/
-├── Eigen_noise.ipynb
-├── README.md
-└── Eigennoise_results/
-    ├── README.md
-    ├── results_summary.json
-    ├── classwise_accuracy.csv
-    └── classification_report.txt
-```
-
 ## Technologies
 
 Python, TensorFlow, Keras, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter Notebook.
